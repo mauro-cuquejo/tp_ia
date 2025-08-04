@@ -39,7 +39,9 @@ Task Planner IA es una aplicación web para la gestión de tareas con vista de l
 ## Uso de la aplicación
 
 - **Agregar tareas:** Completa el formulario y presiona "Add Task".
+- **Actualizar estado tareas:** Presiona el check para pasar una tarea a estado Completado.
 - **Editar tareas:** Mantén presionado una tarea por 2 segundos para editarla. Aparecen los botones "Accept Changes" (rojo) y "Revert".
+- **Eliminar tareas:**: Arrastra una tarea hacia la izquierda para eliminarla de la lista.
 - **Vista calendario:** Haz clic en el ícono 📅 para ver las tareas distribuidas por fecha y prioridad.
 - **Prioridad visual:** Cada tarea y cada día en el calendario muestran círculos de color según la prioridad (rojo: High, amarillo: Medium, verde: Low).
 - **Tooltips:** Al pasar el mouse sobre los círculos del calendario, se muestran los títulos de las tareas pendientes de esa prioridad.
